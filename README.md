@@ -1,4 +1,4 @@
-🏨 I’m currently waiting to start my Masters study in Sydney Australia
+🏨 I’m currently waiting to start my Masters study in Sydney Australia <br/>
 🌱 I'm currently learning ***React*** and ***Nextjs***
 
 **BaseLabs Corp.** 🇰🇷 2024.09 ~ <br/>
