@@ -1,5 +1,5 @@
 🏨 I’m currently waiting to start my Masters in Sydney Australia <br/>
-🌱 I'm currently learning ***React*** and ***Nextjs***
+🌱 I'm currently learning ***React*** and ***Nextjs*** <br/>
 🎯 I'm looking for a career change to a PM!
 
 **BaseLabs Corp.** 🇰🇷 2024.09 ~ <br/>
