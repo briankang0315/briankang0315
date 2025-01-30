@@ -1,5 +1,5 @@
-- 🏨 I’m currently waiting to start my Masters study in Sydney Australia
-- 🌱 I'm currently learning ***React*** and ***Nextjs***
+🏨 I’m currently waiting to start my Masters study in Sydney Australia
+🌱 I'm currently learning ***React*** and ***Nextjs***
 
 **BaseLabs Corp.** 🇰🇷 2024.09 ~ <br/>
 **Valley Innovations Co Ltd 🇬🇧** 2023.09. ~ 2024.04 <br/>
