@@ -5,5 +5,5 @@
 **Valley Innovations Co Ltd 🇬🇧** 2023.09. ~ 2024.04 <br/>
 **Jobis & Villains** 🇰🇷 2023.07 ~ 2023.09 <br/>
 
-🎓 BSc Comp Sci University of Warwick  24’
-🎓 MIT Information Tech 27’
+🎓 BSc Comp Sci University of Warwick  24’ <br/>
+🎓 MIT Information Tech (Business Information Systems) 27’
