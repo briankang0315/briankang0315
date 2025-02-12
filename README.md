@@ -1,4 +1,4 @@
-🏨 I’m currently waiting to start my Masters in Sydney Australia <br/>
+🏨 I’m currently studying Masters in Information Technology in Sydney Australia <br/>
 🌱 I'm currently learning ***React*** and ***Nextjs*** <br/>
 🎯 I'm looking for a career change to a PM!
 
