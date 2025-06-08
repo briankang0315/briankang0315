@@ -8,3 +8,7 @@
 
 🎓 BSc Comp Sci University of Warwick  24’ <br/>
 🎓 MIT Information Tech (Business Information Systems) 27’
+
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
+</a>
