@@ -1,6 +1,6 @@
 🏨 I’m currently studying Master's in Information Technology (Extension) in Sydney, Australia <br/>
 🌱 I'm currently learning ***React*** and ***Nextjs*** <br/>
-🎯 I'm looking for a career change to a PM!
+🎯 I'm currently working as a Pre-sales in Sydney
 
 **BaseLabs Corp.** 🇰🇷 2024.09 ~ <br/>
 **Valley Innovations Co Ltd 🇬🇧** 2023.09. ~ 2024.04 <br/>
