@@ -1,7 +1,9 @@
 🏨 I’m currently studying Master's in Information Technology (Extension) in Sydney, Australia <br/>
-🏋🏻‍♂️ I'm an AI Solutions Engineer @ Katana1 
+🏋🏻‍♂️ I'm an AI Solutions Engineer @ Katana1 <br/>
+👀 I co-founded MITE, a second-hand trading community platform in Sydney, Australia 
 
 **Katana1** 🇦🇺 2025.11 ~ <br/>
+**MITE** 🇦🇺 2025.03 ~ <br/>
 **BaseLabs Corp.** 🇰🇷 2024.09 ~ <br/>
 **Valley Innovations Co Ltd 🇬🇧** 2023.09. ~ 2024.04 <br/>
 **Jobis & Villains** 🇰🇷 2023.07 ~ 2023.09 <br/>
