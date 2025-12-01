@@ -1,4 +1,4 @@
-🏨 I’m currently studying Master's in Information Technology (Extension) in Sydney, Australia <br/>
+🏨 I’m currently studying a Master's in Artificial Intelligence in Sydney, Australia <br/>
 🏋🏻‍♂️ I'm an AI Solutions Engineer @ Katana1 <br/>
 👀 I co-founded MITE, a second-hand trading community platform in Sydney, Australia 
 
