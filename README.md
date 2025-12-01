@@ -9,7 +9,7 @@
 **Jobis & Villains** 🇰🇷 2023.07 ~ 2023.09 <br/>
 
 🎓 BSc Comp Sci University of Warwick  24’ <br/>
-🎓 MIT Information Tech (Business Information Systems) 27’
+🎓 Master's of Artificial Intelligence 27’
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
