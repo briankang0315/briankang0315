@@ -4,7 +4,7 @@
 
 **Katana1** 🇦🇺 2025.11 ~ <br/>
 **MITE** 🇦🇺 2025.03 ~ <br/>
-**BaseLabs Corp.** 🇰🇷 2024.09 ~ <br/>
+**BaseLabs Corp.** 🇰🇷 2024.09 ~ 2026.01 <br/>
 **Valley Innovations Co Ltd 🇬🇧** 2023.09. ~ 2024.04 <br/>
 **Jobis & Villains** 🇰🇷 2023.07 ~ 2023.09 <br/>
 
