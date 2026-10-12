@@ -9,7 +9,7 @@
 **Jobis & Villains** 🇰🇷 2023.07 ~ 2023.09 <br/>
 
 🎓 BSc Comp Sci University of Warwick  24’ <br/>
-🎓 Master's of Information Technology (Extension) 27’
+🎓 Master's of Information Technology (Extension) 26’
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
